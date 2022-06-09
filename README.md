@@ -16,10 +16,12 @@ Here are some ideas to get you started:
 -->
 <div id="badges">
   <a href="https://linkedin.com/in/tanvi-srivastava-851aa920b">
+    <p>I am a backend developer and an ML enthusiast. Currently a sophomore, I am keen on exploring new technologies.</p>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
 <div>
+  <h5>Languages Used</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
