@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="badges">
-  <a href="linkedin.com/in/tanvi-srivastava-851aa920b">
+  <a href="https://linkedin.com/in/tanvi-srivastava-851aa920b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
