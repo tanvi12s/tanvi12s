@@ -18,7 +18,7 @@ Here are some ideas to get you started:
          <p>I am a backend developer and an ML enthusiast. Currently a sophomore, I am keen on exploring new technologies.</p>
 </div>         
 <div id="badges">
-  <a href="https://linkedin.com/in/tanvi-srivastava-851aa920b">
+  <a href="https://www.linkedin.com/in/tanvi-851aa920b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
