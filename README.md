@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="intro">
-         <p>I am a backend developer and an ML enthusiast. Currently a pre-final year student, I am keen on exploring new technologies.</p>
+         <p>I am a backend developer and an ML enthusiast. Currently a final year student, I am keen on exploring new technologies.</p>
 </div>         
 <div id="badges">
   <a href="https://www.linkedin.com/in/tanvi-851aa920b">
